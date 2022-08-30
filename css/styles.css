@@ -140,6 +140,13 @@ li > .current {
 }
 
 .title-section {
+  background-image: url(../images/background/title-overlay-grey.png), url(../images/background/title-overlay.png);
+  background-position: center;
+  background-size: cover;
+  width: 1600px;
+  margin-right: auto;
+  margin-left: auto;
+  background-repeat: no-repeat;
   background-color: var(--background-color-one);
   padding: 200px 0 200px 0;
 }
